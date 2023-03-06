@@ -1,0 +1,14 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.quotes-container {
+    background-color: yellow;
+}
+.features-container{
+    background-color: pink;
+}
+
+.alert-container {
+    background-color: aqua;
+}
